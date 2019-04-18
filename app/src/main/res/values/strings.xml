@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mobileappca</string>
+    <string name="api_address">http://178.62.246.236</string>
+</resources>
